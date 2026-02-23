@@ -34,6 +34,9 @@ This project was developed to strengthen Python programming skills and apply log
 - Data structures (lists, dictionaries)
 - Problem-solving and logical thinking
 
+## 📚 Academic Context
+
+This project was developed as part of my BSc Computing coursework at Arden University. The objective was to design and implement a functional automated parking management system using Python, applying core programming principles and structured problem-solving techniques.
 ---
 
 ## ▶️ How to Run
